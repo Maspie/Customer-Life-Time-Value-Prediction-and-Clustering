@@ -38,10 +38,16 @@ Data Analysis and preprocessing - The graphs after doing EDA on the dataset.
 
 ## Results
 Results of predictions and Clustering
+
+
 ![Result](table.png)
+
 ![Result](clustering.png)
 
+
+
 Visual Representation for Kmeans algorithm showing few points and clusters asssigned to them. 
+
 ![Result](kmeans.png)
 
 
