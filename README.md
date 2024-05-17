@@ -39,6 +39,9 @@ Application of Insights: Personalize insurance policies and improve resource all
 ## Results
 
 ![Result](table.png)
+![Result](clustering.png)
+![Result](kmeans.png)
+
 
 
 
