@@ -31,15 +31,17 @@ Application of Insights: Personalize insurance policies and improve resource all
 
 
 ## Screenshots
-
+Data Analysis and preprocessing - The graphs after doing EDA on the dataset.
 
 
 ![EDA](graph.png)
 
 ## Results
-
+Results of predictions and Clustering
 ![Result](table.png)
 ![Result](clustering.png)
+
+Visual Representation for Kmeans algorithm showing few points and clusters asssigned to them. 
 ![Result](kmeans.png)
 
 
