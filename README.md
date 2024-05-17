@@ -22,7 +22,7 @@ Customer Segmentation: Use clustering algorithms to segment customers based on p
 Application of Insights: Personalize insurance policies and improve resource allocation and customer satisfaction with tailored strategies.
 
 
-![Data Pipeline](Tweets_Preprocessing/Diag.png)
+![Data Pipeline](pipeline.png)
 
 
 
