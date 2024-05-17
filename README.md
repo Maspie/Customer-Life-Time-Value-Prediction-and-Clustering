@@ -32,31 +32,9 @@ Application of Insights: Personalize insurance policies and improve resource all
 
 ## Screenshots
 
-#### Initial Clusters
-
-![Initial Clusters](Tweets_Preprocessing/Cluster1.png)
-
-#### Sub-Clusters level 1
-![Sub Clusters lvl. 1](Tweets_Preprocessing/Cluster2.png)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-## Methodology
-
-Data Pipeline
-
-![Result](Tweets_Preprocessing/flow.png)
+![Initial Clusters](graph.png)
 
 ## Results
 
