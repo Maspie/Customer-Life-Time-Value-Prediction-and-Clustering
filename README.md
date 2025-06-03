@@ -53,3 +53,11 @@ Visual Representation for Kmeans algorithm showing few points and clusters asssi
 
 
 
+
+## Running Tests
+
+This project uses **pytest** for testing. After installing the dependencies with `pip install -r requirements.txt` or manually installing `pytest` and `pandas`, run the tests from the repository root:
+
+```bash
+pytest
+```
